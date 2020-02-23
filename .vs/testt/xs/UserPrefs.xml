@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9EE59539-72BB-43F7-B5BA-53284A48AAE6}|Default">
+  <MonoDevelop.Ide.ItemProperties.testt PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testt/AppDelegate.cs">
+    <Files>
+      <File FileName="testt/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testt" expanded="True">
+            <Node name="testt" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
